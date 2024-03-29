@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe Quaresma Vieira ✌
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fe_qv)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/smookie_dev)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/dev_smookie)
 
 ![felipeqvieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeqvieira&theme=github_dark&show_icons=true)
 

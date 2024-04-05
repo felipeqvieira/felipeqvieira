@@ -5,7 +5,7 @@
 
 ![felipeqvieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeqvieira&theme=github_dark&show_icons=true)
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias utilizadas
 
 <div style="display: inline_block">
   <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
